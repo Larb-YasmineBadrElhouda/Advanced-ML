@@ -1,4 +1,4 @@
-### Climate Change Analysis and Intelligent Decision Agent
+### [Climate Change Analysis and Intelligent Decision Agent\](./climate-dqn-lstm-agent)
 
 In this project , I implemenetd a complete end-to-end pipeline for : 
 
@@ -10,7 +10,7 @@ In this project , I implemenetd a complete end-to-end pipeline for :
 
 \- It leverages historical climate data, machine learning, reinforcement learning, and interactive visualization.
 
-### GAN-based Cartoon Face Generation
+### [GAN-based Cartoon Face Generation](Cartoon_Faces_GAN.ipynb)
 
 In this Notebook I implemenetd a Generative Adversarial Network (GAN) to generate realistic cartoon faces. 
 
@@ -25,7 +25,7 @@ Using the cartoon-faces-googles-cartoon-set dataset , the model consists of  :
 
 **Keywords**: Generative Adversarial Network, image synthesis, cartoon faces, adversarial training, PyTorch.
 
-### Watermark Removal with U-Net Autoencoder
+### [Watermark Removal with U-Net Autoencoder](AutoEncoder_waterMark_remover.ipynb)
 
 This notebook presents my implementation of  a U-Net autoencoder for removing watermarks from images. 
 
@@ -41,7 +41,7 @@ This notebook presents my implementation of  a U-Net autoencoder for removing wa
 
 **Keywords**: U-Net, autoencoder, watermark removal, image restoration, structural similarity, TensorFlow/Keras.
 
-### Conditional Variational Autoencoder for CelebA Smiling Faces 
+### [Conditional Variational Autoencoder for CelebA Smiling Faces](CVAE_Smiling_faces.ipynb)
 
 In this Notebook , I explored the use of Conditional Variational Autoencoders (CVAE) for facial expression generation. 
 
@@ -53,7 +53,7 @@ In this Notebook , I explored the use of Conditional Variational Autoencoders (C
 
 **Keywords**: Variational Autoencoder, conditional generation, facial expression, CelebA dataset, latent representation.
 
-### Transformer-based Time Series Forecasting of Electricity Consumption
+### [Transformer-based Time Series Forecasting of Electricity Consumption](Transofmer_Time_series_Electricity_consumption.ipynb)
 
 In this notebook I implemented a Transformer neural network for forecasting hourly household electricity consumption.
 
