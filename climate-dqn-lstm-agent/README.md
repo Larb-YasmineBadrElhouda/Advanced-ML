@@ -16,6 +16,6 @@ The objective is to analyze the evolution of climate indicators in Algeria over 
 
 \- Future climate forecasts (up to 2040)
 
-- Structured climate reports
+\- Structured climate reports
 
 The system integrates forecasting models with a decision-making RL agent to determine the most appropriate response type based on a natural language query.
