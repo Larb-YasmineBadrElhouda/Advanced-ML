@@ -1,20 +1,20 @@
-##Project Overview
+# Project Overview
 
 This project presents a research-oriented implementation that combines:
 
-- Time-series forecasting (LSTM)
+\- Time-series forecasting (LSTM)
 
-- Natural Language Processing using sentence embeddings
+\- Natural Language Processing using sentence embeddings
 
-- Reinforcement Learning (Deep Q-Network)
+\- Reinforcement Learning (Deep Q-Network)
 
 The objective is to analyze the evolution of climate indicators in Algeria over the past 20 years and to build an intelligent agent capable of responding to user queries related to:
 
-- Historical temperature trends
+\- Historical temperature trends
 
-- Evapotranspiration index (ET₀)
+\- Evapotranspiration index (ET₀)
 
-- Future climate forecasts (up to 2040)
+\- Future climate forecasts (up to 2040)
 
 - Structured climate reports
 
