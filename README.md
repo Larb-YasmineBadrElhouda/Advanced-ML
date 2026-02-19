@@ -1,4 +1,4 @@
-### [Climate Change Analysis and Intelligent Decision Agent\](./climate-dqn-lstm-agent)
+### [Climate Change Analysis and Intelligent Decision Agent\](climate-dqn-lstm-agent)
 
 In this project , I implemenetd a complete end-to-end pipeline for : 
 
