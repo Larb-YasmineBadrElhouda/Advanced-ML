@@ -1,5 +1,15 @@
 ### Climate Change Analysis and Intelligent Decision Agent
 
+In this project , I implemenetd a complete end-to-end pipeline for : 
+
+\- analyzing Algeria’s climate
+
+\- forecasting future trends
+
+\- building an interactive intelligent agent for querying climate information.
+
+\- It leverages historical climate data, machine learning, reinforcement learning, and interactive visualization.
+
 ### GAN-based Cartoon Face Generation
 
 In this Notebook I implemenetd a Generative Adversarial Network (GAN) to generate realistic cartoon faces. 
