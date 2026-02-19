@@ -9,6 +9,7 @@ In this Notebook , I explored the use of Conditional Variational Autoencoders (C
 \- The model learns a structured latent representation of facial features, enabling controlled manipulation of expressions while preserving individual identity. 
 
 \- Evaluation demonstrates successful generation of realistic smiling faces . 
+
 **Keywords**: Variational Autoencoder, conditional generation, facial expression, CelebA dataset, latent representation.
 
 ## Transformer-based Time Series Forecasting of Electricity Consumption
